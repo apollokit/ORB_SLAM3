@@ -1,0 +1,3 @@
+ros_path="./Examples/ROS/ORB_SLAM3"
+export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:$ros_path
+ 
